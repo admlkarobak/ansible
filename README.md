@@ -1,2 +1,1 @@
-ANSIBLE
-pirmi zingsniai
+1. ANSIBLE
