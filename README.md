@@ -1,0 +1,2 @@
+ANSIBLE
+pirmi zingsniai
